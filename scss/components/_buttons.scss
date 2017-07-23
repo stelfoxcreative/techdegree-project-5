@@ -1,0 +1,29 @@
+// ==========================================================================
+// Buttons
+// ==========================================================================
+
+.btn {
+  @include ui-colors($ui-colors);
+}
+
+[class^="btn--"] {
+  @extend %btn;
+  @extend %center-align;
+  text-transform: capitalize;
+  margin-bottom: em(20px, 14px);
+  @include mq(small) {
+    width: 100%;
+  }
+  @include mq(medium) {
+    @include doubly(20px);
+    width: auto;
+    display: inline-block;
+  }
+}
+
+button[type="submit"] {
+  @include mq(medium) {
+    margin: 0 auto;
+    display: block;
+  }
+}

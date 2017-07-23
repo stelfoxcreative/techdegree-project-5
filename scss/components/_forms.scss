@@ -1,0 +1,22 @@
+// ==========================================================================
+// Forms
+// ==========================================================================
+
+.form__input {
+  background-color: $white;
+  color: $grey;
+  border: 0;
+  border-bottom: solid 8px $color-primary;
+  padding: 10px 15px;
+  margin-bottom: 24px;
+  outline: none;
+  font-size: em(18px);
+  font-weight: $font-weight--light;
+  width: 100%;
+}
+
+.form__label {
+  &--hidden {
+    @extend %hidden;
+  }
+}
