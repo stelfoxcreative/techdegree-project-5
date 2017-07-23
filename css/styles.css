@@ -297,7 +297,8 @@ li {
     color: #797e83;
     font-weight: 300;
     padding: 10px 20px;
-    border-radius: 0.2em; }
+    border-radius: 0.2em;
+    text-decoration: none; }
     .nav__item a:hover {
       background-color: #4fe3c2;
       color: #fff; }
