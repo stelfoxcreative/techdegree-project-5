@@ -15,6 +15,22 @@
 		"oAP": "\/.sass-cache\/2519b7cc27fbe878e1fc0645309f6cc5c5b25d51\/scss.scssc",
 		"oF": 0
 		},
+	"\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/styles.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/styles.css.map",
+		"oF": 0
+		},
 	"\/desktop1400px_mockup.png": {
 		"ft": 32768,
 		"iS": 499865,
@@ -92,6 +108,19 @@
 		"oA": 0,
 		"oAP": "\/css\/styles.css",
 		"oF": 3,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/base\/_base.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/base\/_base.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -182,6 +211,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/components\/_index.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/components\/_navigation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/components\/_navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

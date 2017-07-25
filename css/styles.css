@@ -346,7 +346,7 @@ li {
         margin-left: 20px; } }
 
 @media (min-width: 769px) {
-  button[type="submit"] {
+  .form .btn--default {
     margin: 0 auto;
     display: block; } }
 

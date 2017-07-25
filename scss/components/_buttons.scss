@@ -21,9 +21,13 @@
   }
 }
 
-button[type="submit"] {
-  @include mq(medium) {
-    margin: 0 auto;
-    display: block;
+.form {
+
+  .btn--default {
+    @include mq(medium) {
+      margin: 0 auto;
+      display: block;
+    }
   }
+
 }
